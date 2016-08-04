@@ -29,8 +29,14 @@ CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. */
 
-package com.qualcomm.ftcrobotcontroller.opmodes;
+package org.firstinspires.ftc.robotcontroller.internal;
 
+import com.qualcomm.ftcrobotcontroller.opmodes.K9Line;
+import com.qualcomm.ftcrobotcontroller.opmodes.K9TeleOp;
+import com.qualcomm.ftcrobotcontroller.opmodes.MRGyroTest;
+import com.qualcomm.ftcrobotcontroller.opmodes.NullOp;
+import com.qualcomm.ftcrobotcontroller.opmodes.PushBotAuto;
+import com.qualcomm.ftcrobotcontroller.opmodes.PushBotManual;
 import com.qualcomm.robotcore.eventloop.opmode.OpModeManager;
 import com.qualcomm.robotcore.eventloop.opmode.OpModeRegister;
 
